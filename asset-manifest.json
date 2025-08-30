@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apna_shop/static/css/main.66733893.css",
+    "main.js": "/apna_shop/static/js/main.4e52ccee.js",
+    "index.html": "/apna_shop/index.html",
+    "main.66733893.css.map": "/apna_shop/static/css/main.66733893.css.map",
+    "main.4e52ccee.js.map": "/apna_shop/static/js/main.4e52ccee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66733893.css",
+    "static/js/main.4e52ccee.js"
+  ]
+}
